@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+body{
+    margin: 0px;
+}
+header{
+    background-color: purple;
+    height: 100px;
+}
+h1{
+    text-align: center;
+    color: white;
+    line-height: 100px;
+    margin: 0;
+}
+article{
+    padding: 10px;
+    margin: 10px;
+    background: aqua;
+    text-align: justify;
+}
+
